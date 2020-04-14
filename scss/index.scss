@@ -1,0 +1,13 @@
+#billboard {
+  border: 1px dotted #000;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#root > div {
+  border: 1px solid #000;
+  font-size: 30px;
+  width: 300px;
+  margin: 30px auto;
+}
